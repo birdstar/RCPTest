@@ -5,6 +5,7 @@ public class ExtensionConstants {
 	//This is a comments.
 	public static final String EXTENSION_ID = "com.ibm.rcptest.extender";   
 
+	//This is comment 2.
 	public static final String ATTR_ID = "id";
 
 	public static final String ATTR_NAME = "name";
