@@ -15,6 +15,9 @@ public class ExtensionConstants {
 	//This is comments 4.
 
 	public static final String ATTR_TYPE = "type";
+	
+	
+	//this is com 5.
 
 	public static final String ATTR_CLIENTID = "clientId";
 
