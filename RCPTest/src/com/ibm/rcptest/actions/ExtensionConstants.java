@@ -2,7 +2,8 @@ package com.ibm.rcptest.actions;
 
 public class ExtensionConstants {
 
-	public static final String EXTENSION_ID = "com.ibm.rcptest.extender";
+	//This is a comments.
+	public static final String EXTENSION_ID = "com.ibm.rcptest.extender";   
 
 	public static final String ATTR_ID = "id";
 
@@ -23,5 +24,6 @@ public class ExtensionConstants {
 	public static final String TYPE_VIEW = "view";
 
 	public static final String TYPE_ACTION = "action";
+	
 
 }
