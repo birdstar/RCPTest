@@ -7,6 +7,8 @@ public class ExtensionConstants {
 
 	//This is comment 2.
 	public static final String ATTR_ID = "id";
+	
+	//This is comment 3.
 
 	public static final String ATTR_NAME = "name";
 
