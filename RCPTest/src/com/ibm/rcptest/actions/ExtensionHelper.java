@@ -42,7 +42,7 @@ public class ExtensionHelper {
 		if (elements == null || elements.length == 0)
 			return;
 		
-		for (int i = 0; i < elements.length; i++) {
+		for (int i = 0; i < elements.length; i++) { 
 			IConfigurationElement element = elements[0];
 			ExtensionInfoBean bean = new ExtensionInfoBean();
 			bean.setId(element.getAttribute(ExtensionConstants.ATTR_ID));
