@@ -61,7 +61,7 @@
             clientId="com.ibm.rcptest.action"
             desc="description"
             id="MenuID1"
-            index="1"
+            index="4"
             name="FirstMenuName"
             type="action">
       </extender>
